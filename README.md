@@ -1,16 +1,12 @@
-# Avatar Cropper
-Simple and accurate avatar cropping tool that runs in your browser. Made with extremely paranoid people in mind. You'll never miss a single pixel ever again!
-
-**Use it here:** [https://leadrdrk.com/avatarcropper](https://leadrdrk.com/avatarcropper)
-
-![worthless promotional image](assets/ac_card.png)
+# Image Cropper
+Simple and accurate image cropping tool that runs in your browser. Made with extremely paranoid people in mind. You'll never miss a single pixel ever again!
 
 # Features
 - Works great on both mobile and desktop.
 - Progressive Web App support.
 - GIF support: Crop a specific GIF frame or save cropped image as animated GIF.
 - Image rotation/flipping and filters.
-- Preview your avatar as if it was being used on a real website.
+- Preview your image as if it was being used on a real website.
 
 # Development
 This project uses Parcel as its build tool. Simply run `npm run start` to start the development server. If this is your first time, run `npm install` first to install the dependencies.
@@ -44,10 +40,3 @@ Don't see your language on the list? You can help by adding it yourself!
 - You should also update your translation whenever new strings are added.
     - Occasionally check the `vi-vn.json` file for changes if possible.
 </details>
-
-# License
-Licensed under [GNU AGPLv3](LICENSE)
-
-External project licenses:
-- [IBM Plex Sans](https://github.com/ibm/plex): Open Font License
-- [omggif](https://github.com/deanm/omggif): MIT License
