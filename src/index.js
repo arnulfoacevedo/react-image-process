@@ -30,6 +30,7 @@ function getLang() {
     return lang;
 }
 
+// init action
 async function appInit() {
     registerServiceWorker();
     document.body.innerHTML = "";
